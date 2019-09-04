@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LanguageSwtichApp</string>
+    <string name="greeting_text">မဂၤလာနံနက္ခင္းပါ</string>
+    <string name="next">ေနာက္တစ္ခု</string>
+    <string name="sample_text">သီဟိုဠ္မွ ဉာဏ္ႀကီးရွင္သည္ အာယုဝၯနေဆးၫႊန္းစာကို ဇလြန္ေဈးေဘး ဗာဒံပင္ထက္ အဓိ႒ာန္လ်က္ ဂဃနဏဖတ္ခဲ့သည္။</string>
+</resources>

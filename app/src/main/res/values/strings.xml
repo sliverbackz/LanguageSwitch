@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LanguageSwtichApp</string>
+    <string name="greeting_text"></string>
+    <string name="next">Next</string>
+    <string name="sample_text">Next Detail....</string>
+
+</resources>
